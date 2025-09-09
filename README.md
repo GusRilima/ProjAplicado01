@@ -1,8 +1,6 @@
 ## Quem somos
 
-Impulsionamos Negócios com Dados Inteligentes, na JLG Data & Analytics, transformamos dados em insights estratégicos para acelerar o crescimento do seu negócio. Com expertise em Data Science, Analytics e IA.
-
-![cover](img/company.jpg)
+Impulsionamos Negócios com Dados Inteligentes, na [Nome da Empresa], transformamos dados em insights estratégicos para acelerar o crescimento do seu negócio. Com expertise em Data Science, Analytics e IA.
 
 ---
 
