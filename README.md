@@ -88,8 +88,8 @@ O projeto segue a seguinte abordagem:
 ### Clone este repositório  
 
 ```sh
-git clone https://github.com/seu-usuario/projeto_aplicado_1.git
-cd projeto_aplicado_1
+git clone https://github.com/seu-usuario/projaplicado01.git
+cd projaplicado01
 ```
 ---
 
@@ -120,8 +120,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 Se tiver dúvidas ou sugestões, entre em contato:
 
 📧🐙 GitHub & Email: 
-- douglasm8989@outlook.com (Jaelson Matias)
-- lucasiglezias@icloud.com (Lucas Iglezias)
-- gus.ribeirolima@hotmail.com (Gustavo Ribeiro)
+
 
 
